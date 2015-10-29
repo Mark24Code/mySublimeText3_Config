@@ -1,6 +1,7 @@
 {
+	"bold_folder_labels": true,
 	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
-	"debug": true,
+	"debug": false,
 	"draw_white_space": "all",
 	"font_face": "Consolas",
 	"font_size": 14,
@@ -18,10 +19,9 @@
 		"SublimeLinter",
 		"Vintage"
 	],
+	"save_on_focus_lost": true,
 	"tab_size": 4,
 	"theme": "Spacegray.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true,
-	"save_on_focus_lost": true,
-	"bold_folder_labels": true
+	"trim_trailing_white_space_on_save": true
 }
