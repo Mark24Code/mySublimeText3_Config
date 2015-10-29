@@ -46,17 +46,15 @@ Sublime自带的Markdown插件和Markdown Editing、Markdown Lighting冲突
 停用工具包，使用时，请手动开启
 
 
-`
-    "Colorsublime",
-"ColorPicker",
-"DocBlockr",
-"Emmet",
-"Markdown",
-"SideBarEnhancements",
-"SublimeCodeIntel",
-"SublimeLinter",
-"Vintage"
-
+`    "Colorsublime",
+    "ColorPicker",
+    "DocBlockr",
+    "Emmet",
+    "Markdown",
+    "SideBarEnhancements",
+    "SublimeCodeIntel",
+    "SublimeLinter",
+    "Vintage"
 `
 ==========================
 
@@ -91,9 +89,7 @@ Sublime Text PackageControl插件总是安装不成功？？!
 
 3.个人配置
 
-`
-{
-    "color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+`    "color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
     "debug": true,
     "draw_white_space": "all",
     "font_face": "Consolas",
@@ -107,6 +103,4 @@ Sublime Text PackageControl插件总是安装不成功？？!
     "tab_size": 4,
     "theme": "Spacegray.sublime-theme",
     "translate_tabs_to_spaces": true
-}
-
 `
