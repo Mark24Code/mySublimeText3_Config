@@ -1,0 +1,23 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/base16-ocean.dark (SL).tmTheme",
+	"debug": true,
+	"draw_white_space": "all",
+	"font_face": "Consolas",
+	"font_size": 14,
+	"http_proxy": "http://127.0.0.1:1080",
+	"https_proxy": "http://127.0.0.1:1080",
+	"ignored_packages":
+	[
+		"ColorPicker",
+		"DocBlockr",
+		"Emmet",
+		"Markdown",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Vintage"
+	],
+	"tab_size": 4,
+	"theme": "Spacegray.sublime-theme",
+	"translate_tabs_to_spaces": true
+}

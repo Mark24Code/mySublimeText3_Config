@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AutoPEP8",
+		"Autoprefixer",
+		"Bootstrap 4 Snippets",
+		"BracketHighlighter",
+		"ChineseLocalization",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"Emmet",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"IMESupport",
+		"JavaScript & NodeJS Snippets",
+		"jQuery",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Theme - Spacegray"
+	]
+}
