@@ -48,14 +48,15 @@ Sublime自带的Markdown插件和Markdown Editing、Markdown Lighting冲突
 
 `
     "Colorsublime",
-    "ColorPicker",
-    "DocBlockr",
-    "Emmet",
-    "Markdown",
-    "SideBarEnhancements",
-    "SublimeCodeIntel",
-    "SublimeLinter",
-    "Vintage"
+"ColorPicker",
+"DocBlockr",
+"Emmet",
+"Markdown",
+"SideBarEnhancements",
+"SublimeCodeIntel",
+"SublimeLinter",
+"Vintage"
+
 `
 ==========================
 
@@ -90,23 +91,22 @@ Sublime Text PackageControl插件总是安装不成功？？!
 
 3.个人配置
 
-
 `
-    {
-        "color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
-        "debug": true,
-        "draw_white_space": "all",
-        "font_face": "Consolas",
-        "font_size": 13,
-        "http_proxy": "http://127.0.0.1:1080",
-        "https_proxy": "http://127.0.0.1:1080",
-        "ignored_packages":
-        [
-            "Vintage"
-        ],
-        "tab_size": 4,
-        "theme": "Spacegray.sublime-theme",
-        "translate_tabs_to_spaces": true
-    }
+{
+    "color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+    "debug": true,
+    "draw_white_space": "all",
+    "font_face": "Consolas",
+    "font_size": 13,
+    "http_proxy": "http://127.0.0.1:1080",
+    "https_proxy": "http://127.0.0.1:1080",
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "tab_size": 4,
+    "theme": "Spacegray.sublime-theme",
+    "translate_tabs_to_spaces": true
+}
 
 `
