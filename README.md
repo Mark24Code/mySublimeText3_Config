@@ -2,7 +2,7 @@
 我的SublimeText3插件和配置
 
 使用方法:
-  
+
    打开Sublime选择首选项，浏览程序包，在资源管理器中打开文件夹，关掉Sublime，删除该文件下所有文件，用Git将代码Clone到这里，然后打开Sublime
 
 
@@ -89,18 +89,28 @@ Sublime Text PackageControl插件总是安装不成功？？!
 
 3.个人配置
 
-`    "color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
-    "debug": true,
-    "draw_white_space": "all",
-    "font_face": "Consolas",
-    "font_size": 13,
-    "http_proxy": "http://127.0.0.1:1080",
-    "https_proxy": "http://127.0.0.1:1080",
-    "ignored_packages":
+`   "color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",//主题
+    "debug": true,//Sublime Debug开关，可以用来看后台报错
+    "draw_white_space": "all",//空格缩进，显示
+    "font_face": "Consolas",//字体
+    "font_size": 14,//字体尺寸
+    "http_proxy": "http://127.0.0.1:1080",//HTTP代理
+    "https_proxy": "http://127.0.0.1:1080",//HTTPs代理
+    "ignored_packages"://关闭插件的集合，用的时候再开启，增强Sublime的稳定性与速度
     [
+        "ColorPicker",
+        "Colorsublime",
+        "DocBlockr",
+        "Emmet",
+        "MarkdownEditing",
+        "SideBarEnhancements",
+        "SublimeCodeIntel",
+        "SublimeLinter",
         "Vintage"
     ],
-    "tab_size": 4,
-    "theme": "Spacegray.sublime-theme",
-    "translate_tabs_to_spaces": true
-`
+    "tab_size": 4,//定义缩进为4个空格
+    "theme": "Spacegray.sublime-theme",//自定义主题
+    "translate_tabs_to_spaces": true,//Tab转为空格
+    "trim_trailing_white_space_on_save": true,//保存时，自动去掉末尾空格，处女座福音
+    "save_on_focus_lost": true,//Sublime失去鼠标焦点，自动保存
+    "bold_folder_labels": true//文件目录字体加粗，容易分辨`
