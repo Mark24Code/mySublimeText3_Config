@@ -54,8 +54,9 @@ Sublime自带的Markdown插件和Markdown Editing、Markdown Lighting冲突
     "SideBarEnhancements",
     "SublimeCodeIntel",
     "SublimeLinter",
-    "Vintage"
-`
+    "Vintage"`
+
+
 ==========================
 
 
