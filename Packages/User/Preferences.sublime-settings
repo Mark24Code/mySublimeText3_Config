@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/base16-ocean.dark (SL).tmTheme",
+	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
 	"debug": true,
 	"draw_white_space": "all",
 	"font_face": "Consolas",
@@ -9,9 +9,10 @@
 	"ignored_packages":
 	[
 		"ColorPicker",
+		"Colorsublime",
 		"DocBlockr",
 		"Emmet",
-		"Markdown",
+		"MarkdownEditing",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",

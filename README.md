@@ -35,11 +35,19 @@
 + Markdown Preview:Markdown 浏览器中预览
 + MarkdownEditing：Markdown语法提示
 + SublimeLinter:多语言语法校验
++ Colorsublime:快速选择多种主题
+
+已知问题：
+Sublime自带的Markdown插件和Markdown Editing、Markdown Lighting冲突
+
+若发现Markdown插件不正常，请先停用Markdown，然后启用其他组件，最好再重启一下编辑器
+
 
 停用工具包，使用时，请手动开启
 
 
 `
+    "Colorsublime",
     "ColorPicker",
     "DocBlockr",
     "Emmet",
@@ -59,6 +67,7 @@ Sublime Text PackageControl插件总是安装不成功？？!
 `
     50.116.34.243 sublime.wbond.net,
 `
+
 `
     192.30.252.97 nodeload.github.com
 `
@@ -70,6 +79,7 @@ Sublime Text PackageControl插件总是安装不成功？？!
 `
     "http_proxy": "http://your_proxy_here:port",
 `
+
 `
     "https_proxy": "http://your_proxy_here:port",
 `
@@ -98,4 +108,5 @@ Sublime Text PackageControl插件总是安装不成功？？!
         "theme": "Spacegray.sublime-theme",
         "translate_tabs_to_spaces": true
     }
+
 `
