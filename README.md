@@ -98,7 +98,7 @@ Sublime Text PackageControl插件总是安装不成功？？!
 
 3.个人配置
 
-`   "color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",//主题
+`    "color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",//主题
 
     "debug": true,//SublimeDebug开关，可以用来看后台报错
 
