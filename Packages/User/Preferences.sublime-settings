@@ -4,7 +4,7 @@
 	"debug": false,
 	"draw_white_space": "all",
 	"font_face": "Consolas",
-	"font_size": 14,
+	"font_size": 15,
 	"http_proxy": "http://127.0.0.1:1080",
 	"https_proxy": "http://127.0.0.1:1080",
 	"ignored_packages":
@@ -13,10 +13,12 @@
 		"Colorsublime",
 		"DocBlockr",
 		"Emmet",
+		"IMESupport",
 		"MarkdownEditing",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeREPL",
 		"Vintage"
 	],
 	"save_on_focus_lost": true,
