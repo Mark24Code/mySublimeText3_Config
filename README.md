@@ -37,6 +37,11 @@
 + SublimeLinter:多语言语法校验
 + Colorsublime:快速选择多种主题
 
+11.3
+
++ Evernote：印象笔记
+停用了Sublime REPL
+
 已知问题：
 Sublime自带的Markdown插件和Markdown Editing、Markdown Lighting冲突
 
