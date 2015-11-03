@@ -1,4 +1,5 @@
-# mySublimeText3
+# mySublimeText3_Config
+
 我的SublimeText3插件和配置
 
 使用方法:
@@ -70,7 +71,8 @@ Sublime自带的Markdown插件和Markdown Editing、Markdown Lighting冲突
 
     "SublimeLinter",
 
-    "Vintage"`
+    "Vintage"
+`
 
 
 ==========================
