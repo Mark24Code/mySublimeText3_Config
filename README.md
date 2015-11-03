@@ -41,9 +41,14 @@
 11.3
 
 + Evernote：印象笔记
++ Git:Git管理
++ 删除IMESupport :中文输入框，更随 --> 经常崩溃，不稳定
 
 
 停用了Sublime REPL
+
+停用了Color​Picker：不常用，可以使用浏览器捕捉颜色
+
 
 已知问题：
 Sublime自带的Markdown插件和Markdown Editing、Markdown Lighting冲突
@@ -55,7 +60,7 @@ Sublime自带的Markdown插件和Markdown Editing、Markdown Lighting冲突
 
 
 
-	
+
 	"Colorsublime",
 
     "ColorPicker",
