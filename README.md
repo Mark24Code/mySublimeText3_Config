@@ -40,6 +40,8 @@
 11.3
 
 + Evernote：印象笔记
+
+
 停用了Sublime REPL
 
 已知问题：
@@ -51,7 +53,8 @@ Sublime自带的Markdown插件和Markdown Editing、Markdown Lighting冲突
 停用工具包，使用时，请手动开启
 
 
-`    "Colorsublime",
+`
+    "Colorsublime",
 
     "ColorPicker",
 
@@ -103,7 +106,8 @@ Sublime Text PackageControl插件总是安装不成功？？!
 
 3.个人配置
 
-`    "color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",//主题
+`
+    "color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",//主题
 
     "debug": true,//SublimeDebug开关，可以用来看后台报错
 
@@ -151,4 +155,5 @@ Sublime Text PackageControl插件总是安装不成功？？!
 
     "save_on_focus_lost": true,//Sublime失去鼠标焦点，自动保存
 
-    "bold_folder_labels": true//文件目录字体加粗，容易分辨`
+    "bold_folder_labels": true//文件目录字体加粗，容易分辨
+`
