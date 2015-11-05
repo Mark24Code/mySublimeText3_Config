@@ -1,52 +1,52 @@
 [
     {
         "id": "file", 
-        "caption": "File", 
-        "mnemonic": "F"
+        "mnemonic": "F", 
+        "caption": "File"
     }, 
     {
         "id": "edit", 
-        "caption": "Edit", 
-        "mnemonic": "E"
+        "mnemonic": "E", 
+        "caption": "Edit"
     }, 
     {
         "id": "selection", 
-        "caption": "Selection", 
-        "mnemonic": "S"
+        "mnemonic": "S", 
+        "caption": "Selection"
     }, 
     {
         "id": "find", 
-        "caption": "Find", 
-        "mnemonic": "i"
+        "mnemonic": "i", 
+        "caption": "Find"
     }, 
     {
         "id": "view", 
-        "caption": "View", 
-        "mnemonic": "V"
+        "mnemonic": "V", 
+        "caption": "View"
     }, 
     {
         "id": "goto", 
-        "caption": "Goto", 
-        "mnemonic": "G"
+        "mnemonic": "G", 
+        "caption": "Goto"
     }, 
     {
         "id": "tools", 
-        "caption": "Tools", 
-        "mnemonic": "T"
+        "mnemonic": "T", 
+        "caption": "Tools"
     }, 
     {
         "id": "project", 
-        "caption": "Project", 
-        "mnemonic": "P"
+        "mnemonic": "P", 
+        "caption": "Project"
     }, 
     {
         "id": "preferences", 
-        "caption": "Preferences", 
-        "mnemonic": "n"
+        "mnemonic": "n", 
+        "caption": "Preferences"
     }, 
     {
         "id": "help", 
-        "caption": "Help", 
-        "mnemonic": "H"
+        "mnemonic": "H", 
+        "caption": "Help"
     }
 ]

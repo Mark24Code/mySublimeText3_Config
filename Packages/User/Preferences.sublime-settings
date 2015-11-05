@@ -13,11 +13,11 @@
 		"Colorsublime",
 		"DocBlockr",
 		"Emmet",
+		"Git",
 		"MarkdownEditing",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
-		"SublimeREPL",
 		"Vintage"
 	],
 	"save_on_focus_lost": true,
